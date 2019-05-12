@@ -1,6 +1,8 @@
 # homepage
 My very own personal website. Basically this is just a résumé.
 
+add "🧙Hocus-pocus!"
+
 ## Getting Started
 
 This project is created with aim to get hands-on exprience in Git as well as creating and hosting own website (web resume) using GitHub.
